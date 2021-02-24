@@ -1,7 +1,7 @@
 # Soma-das-palavras-
 Possui o intuito de somar quantas vezes uma mesma palavra foi utilizada dentro de um diretório de arquivos, necessário que os arquivos sejam de mesmo formato!
 
-##Funcionalidades do código
+<p>##Funcionalidades do código</p>
 <ul>
 <li>[x] Faz a leitura do diretório, informando o local onde se encontram os dados a serem utilizados</li>
   <li>[x] Filtra os arquivos pelo formato informado (.srt)</li>
