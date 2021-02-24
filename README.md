@@ -2,8 +2,8 @@
 Possui o intuito de somar quantas vezes uma mesma palavra foi utilizada dentro de um diretório de arquivos, necessário que os arquivos sejam de mesmo formato!
 
 ##Funcionalidades do código
-
-[x] Faz a leitura do diretório, informando o local onde se encontram os dados a serem utilizados
+<ul>
+<li>[x] Faz a leitura do diretório, informando o local onde se encontram os dados a serem utilizados</li>
 [x] Filtra os arquivos pelo formato informado (.srt)
 [x] Faz a leitura dos arquivos
 [x] Mesclo os elementos por espaços vazios
@@ -18,3 +18,4 @@ Possui o intuito de somar quantas vezes uma mesma palavra foi utilizada dentro d
 [x] Remove as linhas que possuírem apenas números
 [x] Agrupa os elementos retornando cada um eme seu respctivo objeto
 [x] Ordena os elementos em (asc ou desc) dependendo do parâmentro passado
+<ul>
