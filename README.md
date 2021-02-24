@@ -1,5 +1,5 @@
 # Soma-das-palavras-
-Possui o intuito de somar quantas vezes uma mesma palavra foi utilizada dentro de um diretório de arquivos, necessário que os arquivos sejam de mesmo formato!
+Possui o intuito de somar quantas vezes, uma mesma palavra foi utilizada dentro de um diretório de arquivos, necessário que os arquivos sejam de mesmo formato!
 
 <p>##Funcionalidades do código</p>
 <ul>
