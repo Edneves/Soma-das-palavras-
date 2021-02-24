@@ -3,7 +3,7 @@ Possui o intuito de somar quantas vezes uma mesma palavra foi utilizada dentro d
 
 <p>##Funcionalidades do código</p>
 <ul>
-<li>[x] Faz a leitura do diretório, informando o local onde se encontram os dados a serem utilizados</li>
+<li>[x] Faz a leitura do diretório do informado, onde se encontram os dados a serem utilizados</li>
   <li>[x] Filtra os arquivos pelo formato informado (.srt)</li>
 <li>[x] Faz a leitura dos arquivos</li>
 <li>[x] Mesclo os elementos por espaços vazios</li>
